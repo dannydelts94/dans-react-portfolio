@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dannydelts94/dans-react-portfolio/static/css/main.af1c906f.chunk.css",
+    "main.js": "/dannydelts94/dans-react-portfolio/static/js/main.52919107.chunk.js",
+    "main.js.map": "/dannydelts94/dans-react-portfolio/static/js/main.52919107.chunk.js.map",
+    "runtime-main.js": "/dannydelts94/dans-react-portfolio/static/js/runtime-main.4e9ed938.js",
+    "runtime-main.js.map": "/dannydelts94/dans-react-portfolio/static/js/runtime-main.4e9ed938.js.map",
+    "static/js/2.3a542876.chunk.js": "/dannydelts94/dans-react-portfolio/static/js/2.3a542876.chunk.js",
+    "static/js/2.3a542876.chunk.js.map": "/dannydelts94/dans-react-portfolio/static/js/2.3a542876.chunk.js.map",
+    "index.html": "/dannydelts94/dans-react-portfolio/index.html",
+    "static/css/main.af1c906f.chunk.css.map": "/dannydelts94/dans-react-portfolio/static/css/main.af1c906f.chunk.css.map",
+    "static/js/2.3a542876.chunk.js.LICENSE.txt": "/dannydelts94/dans-react-portfolio/static/js/2.3a542876.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e9ed938.js",
+    "static/js/2.3a542876.chunk.js",
+    "static/css/main.af1c906f.chunk.css",
+    "static/js/main.52919107.chunk.js"
+  ]
+}
